@@ -101,3 +101,12 @@ Step 2: Install Dependencies
 pip install numpy matplotlib
 Step 3: Run the Application
 sourcecode.py
+
+## Contributors
+
+
+This project was developed as a collaborative group project by 4 members.
+- Mahi Gupta
+- Riddhi Gupta
+- Rehab Hussain (25BSA10162)
+- Aarushi
