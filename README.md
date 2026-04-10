@@ -10,7 +10,7 @@ It is designed for students, educators, and anyone interested in visualizing che
 
 ## 🚀 Features
 
-### 🔥 Thermodynamics Modules
+### 🌟 Thermodynamics Modules
 
 #### 1. Calorimetry
 - Calculates heat energy using:
