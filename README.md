@@ -92,9 +92,8 @@ q = mL
 ---
 
 ## 📦 Installation
-
-Step 1: Clone the Repository
 ```bash
+Step 1: Clone the Repository:
 https://github.com/mahi25bce10912/THERMOCHEM---ANALYSER.git
 cd thermochem-analyzer
 Step 2: Install Dependencies
@@ -102,7 +101,7 @@ pip install numpy matplotlib
 Step 3: Run the Application
 sourcecode.py
 ---
-```bash
+```
 
 ## Contributors
 
