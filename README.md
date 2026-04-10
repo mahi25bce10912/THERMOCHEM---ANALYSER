@@ -101,6 +101,7 @@ Step 2: Install Dependencies
 pip install numpy matplotlib
 Step 3: Run the Application
 sourcecode.py
+---
 
 ## Contributors
 
