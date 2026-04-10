@@ -93,7 +93,7 @@ q = mL
 
 ## 📦 Installation
 
-### Step 1: Clone the Repository
+Step 1: Clone the Repository
 ```bash
 https://github.com/mahi25bce10912/THERMOCHEM---ANALYSER.git
 cd thermochem-analyzer
