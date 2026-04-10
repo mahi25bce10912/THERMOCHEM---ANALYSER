@@ -78,6 +78,8 @@ q = mL
 - Material Science Studies
 - Academic Learning and Demonstration
 
+---
+
 
 ## 🖥️ User Interface
 
