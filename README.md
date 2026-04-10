@@ -72,6 +72,13 @@ q = mL
 
 ---
 
+## Applications
+- Research Laboratories
+- Chemical Industries
+- Material Science Studies
+- Academic Learning and Demonstration
+
+
 ## 🖥️ User Interface
 
 - Clean and modern GUI
@@ -106,7 +113,7 @@ sourcecode.py
 ## Contributors
 
 This project was developed as a collaborative group project by 4 members.
-- Mahi Gupta
-- Riddhi Gupta
+- Mahi Gupta (25BCE10912)
+- Riddhi Gupta (25BSA10042)
 - Rehab Hussain (25BSA10162)
-- Aarushi
+- Aarushi Raizada (25BCE10001)
