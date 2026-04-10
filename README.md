@@ -102,9 +102,9 @@ pip install numpy matplotlib
 Step 3: Run the Application
 sourcecode.py
 ---
+```bash
 
 ## Contributors
-
 
 This project was developed as a collaborative group project by 4 members.
 - Mahi Gupta
